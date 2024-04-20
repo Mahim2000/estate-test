@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "image": "https://www.hatcherlandscape.com/hs-fs/hubfs/Stock%20Images/hospital-landscaping-lighting-1.jpg?width=1500&name=hospital-landscaping-lighting-1.jpg",
+      "estate_title": "Modern Office Building",
+      "segment_name": "Office Space",
+      "description": "A state-of-the-art office building with contemporary design and amenities.",
+      "price": 10000000,
+      "status": "FOR RENT",
+      "area": "20,000 sq ft",
+      "location": "Downtown Business District",
+      "facilities": ["Conference Rooms", "Cafeteria", "Parking Garage"]
+    },
+    {
+      "id": 2,
+      "image": "https://www.myhc.com.pk/wp-content/uploads/2016/12/gallery-6-1170x780.00000039.jpg",
+      "estate_title": "Prime Retail Space",
+      "segment_name": "Retail Space",
+      "description": "High-visibility retail space located in a bustling shopping district.",
+      "price": 15000,
+      "status": "FOR SALE",
+      "area": "5,000 sq ft",
+      "location": "City Center Mall",
+      "facilities": ["Storefront Windows", "Storage Area", "Restroom"]
+    },
+    {
+      "id": 3,
+      "image": "https://architizer-prod.imgix.net/media/145814427209781-RMO-02PU-03-MuuM_50.jpg",
+      "estate_title": "Spacious Warehouse",
+      "segment_name": "Industrial",
+      "description": "Large warehouse suitable for storage or distribution operations.",
+      "price": 2000000,
+      "status": "FOR SALE",
+      "area": "50,000 sq ft",
+      "location": "Industrial Park",
+      "facilities": ["Loading Docks", "Office Space", "Security System"]
+    },
+    {
+      "id": 4,
+      "image": "https://pixy.org/src2/638/6384256.jpg",
+      "estate_title": "Upscale Restaurant",
+      "segment_name": "Restaurant",
+      "description": "Elegant restaurant space with a fully-equipped kitchen and dining area.",
+      "price": 8000,
+      "status": "FOR RENT",
+      "area": "3,000 sq ft",
+      "location": "City Waterfront",
+      "facilities": ["Commercial Kitchen", "Outdoor Seating", "Bar Area"]
+    }
+  ]  
